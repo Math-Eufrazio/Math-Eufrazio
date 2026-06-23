@@ -2,8 +2,9 @@
 
 ---
 
-</p>👋 About me
+## 🐦 About me
 
+<img src="./mew.gif" width="180" align="right"/>
 
 🎓 Estudante Técnico em TI na Fundatec
 
@@ -15,7 +16,7 @@
 
 ---
 
-🎒 Perfil do Treinador
+## 🎒 Perfil do Treinador
 
 - 📍 Canoas, RS
 - 🎯 Em busca da minha primeira oportunidade na área de Tecnologia
@@ -24,7 +25,7 @@
 
 ---
 
-🏆 Insígnias Conquistadas
+## 🏆 Insígnias Conquistadas
 
 - 🐍 Python
 - ☕ Java
@@ -33,7 +34,7 @@
 
 ---
 
-🎮 Projetos em Destaque
+## 🎮 Projetos em Destaque
 
 ⚔️ Vs-Eivor
 
@@ -49,7 +50,7 @@ Projeto experimental criado para explorar novos conceitos de programação duran
 
 ---
 
-📈 Missão Atual
+## 📈 Missão Atual
 
 - 🔹 Aprimorar minhas habilidades em Python
 - 🔹 Aprofundar meus conhecimentos em Java
@@ -59,11 +60,11 @@ Projeto experimental criado para explorar novos conceitos de programação duran
 
 ---
 
-📫 Contato
+## 📫 Contato
 
 - 📧 Gmail : matheuseufrazio26@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/matheus-o-eufrazio-b95823316/
 
 ---
 
-«⚡ "Testando capacidades, um erro de sintaxe por vez."»
+## «⚡ "Testando capacidades, um erro de sintaxe por vez."»
