@@ -27,12 +27,14 @@
 
 ## 🏆 Insígnias Conquistadas
 
-<img src="./mewM.gif" width="180" align="right"/>
+<img src="./mewM.gif" width="130" align="right"/>
+
 
 - 🐍 Python
 - ☕ Java
 - 📂 GitHub
 - 💻 VS Code
+
 
 ---
 
