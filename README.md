@@ -56,6 +56,8 @@ Projeto experimental criado para explorar novos conceitos de programação duran
 
 ## 📈 Missão Atual
 
+<img src="./hilb.gif" width="90" align="right"/>
+
 - 🔹 Aprimorar minhas habilidades em Python
 - 🔹 Aprofundar meus conhecimentos em Java
 - 🔹 Desenvolver projetos maiores e mais completos
