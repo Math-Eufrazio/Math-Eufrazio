@@ -27,7 +27,7 @@
 
 ## 🏆 Insígnias Conquistadas
 
-<img src="./mewM.gif" width="125" align="right"/>
+<img src="./mewM.gif" width="115" align="right"/>
 
 
 - 🐍 Python
@@ -56,7 +56,7 @@ Projeto experimental criado para explorar novos conceitos de programação duran
 
 ## 📈 Missão Atual
 
-<img src="./hilb.gif" width="85" align="right"/>
+<img src="./hilb.gif" width="75" align="right"/>
 
 - 🔹 Aprimorar minhas habilidades em Python
 - 🔹 Aprofundar meus conhecimentos em Java
